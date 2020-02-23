@@ -13,4 +13,6 @@ pytrends==4.3.0
 jupyter
 ipython
 seaborn
+pydotplus
+bs4
 

@@ -1,7 +1,7 @@
 tehran_stocks
 selenium
 ta
-numpy==1.14.0
+numpy==1.22.0
 scipy
 scikit-learn
 quandl==3.3.0
